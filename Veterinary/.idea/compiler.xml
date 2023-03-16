@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-veterinary-ms" />
+        <module name="veterinary-config-server" />
+        <module name="veterinary-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easyms-azure" target="11" />
+      <module name="easyms-azure-ad-secured-rest-starter" target="11" />
+      <module name="easyms-azure-keyvault-starter" target="11" />
+      <module name="easyms-azure-test" target="11" />
+      <module name="easyms-basic-starter" target="11" />
+      <module name="easyms-logging-starter" target="11" />
+      <module name="easyms-rest-starter" target="11" />
+      <module name="easyms-sample-ms" target="11" />
+      <module name="easyms-samples" target="11" />
+      <module name="easyms-sdk" target="11" />
+      <module name="easyms-secured-azure-ad-sample-ms" target="11" />
+      <module name="easyms-secured-rest-starter" target="11" />
+      <module name="easyms-secured-sample-ms" target="11" />
+      <module name="easyms-test" target="11" />
+      <module name="my-veterinary-domain" target="11" />
+      <module name="my-veterinary-ms" target="11" />
+      <module name="veterinary-config-server" target="11" />
+      <module name="veterinary-domain" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="easyms-azure-ad-secured-rest-starter" options="-parameters" />
+      <module name="easyms-azure-keyvault-starter" options="-parameters" />
+      <module name="easyms-azure-test" options="-parameters" />
+      <module name="easyms-basic-starter" options="-parameters" />
+      <module name="easyms-logging-starter" options="-parameters" />
+      <module name="easyms-rest-starter" options="-parameters" />
+      <module name="easyms-sample-ms" options="-parameters" />
+      <module name="easyms-sdk" options="-parameters" />
+      <module name="easyms-secured-azure-ad-sample-ms" options="-parameters" />
+      <module name="easyms-secured-rest-starter" options="-parameters" />
+      <module name="easyms-secured-sample-ms" options="-parameters" />
+      <module name="easyms-test" options="-parameters" />
+      <module name="my-veterinary-domain" options="" />
+      <module name="my-veterinary-ms" options="-parameters" />
+      <module name="veterinary-config-server" options="-parameters" />
+      <module name="veterinary-domain" options="-parameters" />
+    </option>
+  </component>
+</project>

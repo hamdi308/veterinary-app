@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.easyms</groupId>
+  <artifactId>easyms-azure-test</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.7-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230227101229</lastUpdated>
+  </versioning>
+</metadata>
